@@ -1,0 +1,13 @@
+body {}
+
+.primary-background {
+	background: #C2185B !important;
+}
+
+.primary-home {
+	background: #f06292;
+}
+
+.primary-dark {
+	background: #263238;
+}
