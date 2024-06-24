@@ -1,2 +1,2 @@
 # TechGram
-A tech stack portal
+A tech stack blog platform
